@@ -1,0 +1,15 @@
+/Users/palak/Documents/Coding/Project/Compiler/compiler/bin/Debug/net7.0/compiler
+/Users/palak/Documents/Coding/Project/Compiler/compiler/bin/Debug/net7.0/compiler.deps.json
+/Users/palak/Documents/Coding/Project/Compiler/compiler/bin/Debug/net7.0/compiler.runtimeconfig.json
+/Users/palak/Documents/Coding/Project/Compiler/compiler/bin/Debug/net7.0/compiler.dll
+/Users/palak/Documents/Coding/Project/Compiler/compiler/bin/Debug/net7.0/compiler.pdb
+/Users/palak/Documents/Coding/Project/Compiler/compiler/obj/Debug/net7.0/compiler.csproj.AssemblyReference.cache
+/Users/palak/Documents/Coding/Project/Compiler/compiler/obj/Debug/net7.0/compiler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/palak/Documents/Coding/Project/Compiler/compiler/obj/Debug/net7.0/compiler.AssemblyInfoInputs.cache
+/Users/palak/Documents/Coding/Project/Compiler/compiler/obj/Debug/net7.0/compiler.AssemblyInfo.cs
+/Users/palak/Documents/Coding/Project/Compiler/compiler/obj/Debug/net7.0/compiler.csproj.CoreCompileInputs.cache
+/Users/palak/Documents/Coding/Project/Compiler/compiler/obj/Debug/net7.0/compiler.dll
+/Users/palak/Documents/Coding/Project/Compiler/compiler/obj/Debug/net7.0/refint/compiler.dll
+/Users/palak/Documents/Coding/Project/Compiler/compiler/obj/Debug/net7.0/compiler.pdb
+/Users/palak/Documents/Coding/Project/Compiler/compiler/obj/Debug/net7.0/compiler.genruntimeconfig.cache
+/Users/palak/Documents/Coding/Project/Compiler/compiler/obj/Debug/net7.0/ref/compiler.dll
